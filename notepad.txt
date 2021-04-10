@@ -1,0 +1,2 @@
+This is a sample text in the notepad. Hello world.
+Hi from notepad.
