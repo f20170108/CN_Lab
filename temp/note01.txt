@@ -1,0 +1,2 @@
+Hi this is a sample text file.
+Hello again. Inside temp folder.
